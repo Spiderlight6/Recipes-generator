@@ -32,3 +32,9 @@ API Integration: if possible integrating an API to fetch recipes dynamically bas
 User Interface Enhancements: Improving the UI to make it more easy to user  and visually appealing (better styling).
 
 Advanced Recipe Matching: Implementing more sophisticated matching logic to suggest recipes based on partial ingredient matches and user preferences.
+
+
+# Finally! 
+
+I created this website in my local machine before even creating a repository and cloning it 
+That's why there are not mant commits.
