@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipes generator</title>
+    <link rel="stylesheet" href="styles.css">
+    
+</head>
+<body>
+    <header id="header">
+        <h1>Welcome to my Website!</h1>
+    </header>
+    
+
+    
+    <div class="container mt-5">
+        <form action="#" id="form-ingredients" class="p-4 border rounded shadow">
+            <div class="mb-3">
+                <label for="ingredients" class="form-label">Enter the ingredients (comma separated). e.g., onion, tomato, chicken-breast, flour</label>
+                <textarea id="ingredients" class="form-control" rows="3" placeholder="Enter ingredients"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+
+
+    <div class="container mt-4">
+        <h2>Recipe Result</h2>
+        <div id="recipe-result" class="border p-4 rounded shadow-sm"></div>
+    </div>
+
+    
+
+    <script src="app.js"></script>
+    
+
+
+</body>
+</html>
